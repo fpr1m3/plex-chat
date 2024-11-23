@@ -1,0 +1,1 @@
+from .sanity import CheckEnvironment
